@@ -1,0 +1,7 @@
+{
+  "sampleHz": 1000,
+  "path": "sys/bus/iio/devices/iio:device0/",
+  "fileTemplate": "in_voltage<N>_raw",
+  "maxCurrent": 127.3,
+  "calibration": 3
+}

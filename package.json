@@ -1,0 +1,27 @@
+{
+  "name": "@agilatech/ctin",
+  "version": "0.6.0",
+  "description": "Device driver for CT signal analog input",
+  "main": "ctin.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgilatechSystems/ctin.git"
+  },
+  "keywords": [
+    "CT",
+    "amperage",
+    "amps",
+    "AC",
+    "current",
+    "Current Transformer"
+  ],
+  "author": "scotty <scott@agilatech.com> (http://agilatech.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AgilatechSystems/ctin/issues"
+  },
+  "homepage": "https://github.com/AgilatechSystems/ctin#readme"
+}
